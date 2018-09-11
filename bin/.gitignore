@@ -1,0 +1,10 @@
+/CreateSignaturesForMe.class
+/KeyGenerator.class
+/Transaction.class
+/TxnIdIndexPair.class
+/UTXO.class
+/VerifySignature.class
+/makefile
+/signTransaction.class
+/txblk.class
+/wallet.class
